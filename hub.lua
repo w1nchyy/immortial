@@ -5,7 +5,7 @@
 --██║██║ ╚═╝ ██║██║ ╚═╝ ██║╚█████╔╝██║  ██║   ██║   ██║██║  ██║███████╗
 --╚═╝╚═╝     ╚═╝╚═╝     ╚═╝ ╚════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Robojini/Tuturial_UI_Library/main/UI_Template_1"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/w1nchyy/ui/main/code.lua"))()
 
 local Window = Library.CreateLib("Immortial Hub", "RJTheme7")
 
